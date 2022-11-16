@@ -1,12 +1,3 @@
-# Tutorials
-
-![YouTube Art](assets/youtube-art.png?raw=true "Title")
-
-# Support
-
-☕ - [Buy Me a Coffee](https://www.buymeacoffee.com/antonputra)  
-BTC: bc1qs4uv9jylxzvn9h5yzngxxqh4j7uq9mpr6gsmc2  
-ETH: 0x8C53Fcc561a25151d7922a69675c3Fb4bE912E9c
 
 # Contents
 
