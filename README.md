@@ -33,11 +33,4 @@
 - [098 - Kubernetes Pod Disruption Budget](lessons/098)
 - [099 - Kubernetes Local Persistent Volume: DON'T use hostPath!](lessons/099)
 
-# Social
-
-🎥 - [YouTube](https://www.youtube.com/c/AntonPutra)  
-🎮 - [Discord](https://discord.gg/Wy5SPDSTjX)  
-💼 - [LinkedIn](https://www.linkedin.com/in/anton-putra)  
-🎙 - [Twitter](https://twitter.com/antonvputra)  
-👥 - [Facebook](https://www.facebook.com/profile.php?id=100037229408982)  
-📨 - me@antonputra.com  
+ 
